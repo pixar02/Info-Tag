@@ -1,6 +1,7 @@
 main: com.infogroup.infotag.InfoTag
 name: InfoTag
 authors: [pixar02, Ktar5]
+version: @VERSION@
 website : "bit.ly/InfoBoardReborn_spigot & bit.ly/InfoBoardReborn_bukkit"
 depend: [PlaceholderAPI]
 

@@ -1,6 +1,5 @@
 package com.infogroup.infotag.utils;
 
-
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.entity.Player;
